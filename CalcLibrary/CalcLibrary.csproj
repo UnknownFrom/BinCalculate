@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\CalcLibrary.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,37 @@
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csprojAssemblyReference.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csprojAssemblyReference.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.xml

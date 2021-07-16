@@ -1,0 +1,23 @@
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\CalcLibrary.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\CalcLibrary.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\UnitTestProject\obj\Debug\UnitTestProject.pdb

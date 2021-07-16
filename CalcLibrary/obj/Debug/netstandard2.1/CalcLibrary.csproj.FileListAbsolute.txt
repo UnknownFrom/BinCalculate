@@ -1,0 +1,9 @@
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.1\CalcLibrary.deps.json
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.1\CalcLibrary.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\bin\Debug\netstandard2.1\CalcLibrary.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.1\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.1\CalcLibrary.AssemblyInfo.cs
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.1\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.1\CalcLibrary.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.1\CalcLibrary.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalcLibrary\obj\Debug\netstandard2.1\CalcLibrary.csprojAssemblyReference.cache

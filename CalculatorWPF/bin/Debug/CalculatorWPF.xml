@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CalculatorWPF</name>
+    </assembly>
+    <members>
+        <member name="T:CalculatorWPF.App">
+            <summary>
+            Логика взаимодействия для App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:CalculatorWPF.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:CalculatorWPF.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:CalculatorWPF.MainWindow">
+            <summary>
+            Логика взаимодействия для MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку ввода числа или операции (+, -, *, /, ^, %) в текстовое поле
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickClear(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку очистки текстового поля
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickSolve(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку решение введённого выражения
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickChangeSign(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку смены знака числа
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickDivOnX(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вычисления деления 1 на введённое число
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickFactorial(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вычисления факториала числа
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickSqrt(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вычисления квадратного корня числа
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickPow2(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку возведения во вторую степень
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickEXP(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вывода числа Эйлера "е"
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickEXPX(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вычисления е^x
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickPI(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вывода числа ПИ
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickTAN(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вычисления тангенса от введённого числа
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickSIN(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вычисления синуса от введённого числа
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickCOS(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вычисления косинуса от введённого числа
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickOR(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку ввода операции |
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:CalculatorWPF.MainWindow.Button_ClickAND(System.Object,System.Windows.RoutedEventArgs)" -->
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickXOR(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку операции XOR
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickBIN(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вычисления ввёденого числа в двоичной системе исчисления
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.InBin">
+            <summary>
+            Перевод в двоичную систему исчисления
+            </summary>
+            <example>
+            <code>
+            int wholePart = 3;
+            int binWholePart = 0;
+            InBin();
+            Console.WriteLine(binWholePart) // binWholePart = 11
+            </code>
+            </example>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.binToString">
+            <summary>
+            Возвращение двоичного числа в виде строки
+            </summary>
+            <returns>Двоичное число</returns>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickDEC(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку вычисления ввёденого числа в десятичной системе исчисления
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.Button_ClickDIV(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обработчик события нажатия на кнопку операции для нахождения целой части от деления
+            </summary>
+            <param name="sender">тип object</param>
+            <param name="e">тип RoutedEventArgs</param>
+        </member>
+        <member name="M:CalculatorWPF.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:CalculatorWPF.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:CalculatorWPF.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:CalculatorWPF.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>

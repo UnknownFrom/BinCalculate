@@ -1,0 +1,75 @@
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\App.g.cs
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\MainWindow.baml
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalcLibrary.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalcLibrary.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CopyComplete
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalcLibrary.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalcLibrary.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csprojAssemblyReference.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\App.g.cs
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\MainWindow.baml
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CopyComplete
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalcLibrary.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalcLibrary.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\App.g.cs
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\MainWindow.baml
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CopyComplete
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.xml
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.xml
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalcLibrary.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalcLibrary.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csprojAssemblyReference.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\App.g.cs
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\MainWindow.baml
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CopyComplete
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6 (2)\Лабораторная работа 6\Lab6\CalculatorWPF\bin\Debug\CalcLibrary.xml

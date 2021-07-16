@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CalcLibrary</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:CalcLibrary.Calc" -->
+        <member name="M:CalcLibrary.Calc.DoOperation(System.String,System.Boolean)">
+            <summary>
+            Выполнение математической операции
+            </summary>
+            <param name="s">Выражение (string)</param>
+            <param name="bin">В какой системе исчисления выполняются операции (bool)</param>
+            <returns>Результат вычисления</returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.DoBinOperation(System.String)">
+            <summary>
+            Выполнение операции в двоичной системе исчисления
+            </summary>
+            <example>
+            <code>
+            string s = DoBinOperation("23^4");// s = "19"
+            </code>
+            </example>
+            <param name="s">Выражение (string)</param>
+            <returns>Результат вычисления</returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.GetOperands(System.String)">
+            <summary>
+            Нахождение операндов
+            </summary>
+            <example>
+            <code>
+            string[] oper = GetOperands("10+3"); //res[0]=10, res[1]=3
+            </code>
+            </example>
+            <param name="s">Выражение (string)</param>
+            <returns>Список операндов</returns>
+        </member>
+        <member name="F:CalcLibrary.Calc.DoubleOperation">
+            <summary>
+            Набор операций
+            </summary>
+        </member>
+        <member name="M:CalcLibrary.Calc.GetOperation(System.String)">
+            <summary>
+            Определение операции в выражении
+            </summary>
+            <example>
+            <code>
+            string res = GetOperation("10+3");
+            Console.WriteLine(res); //"+"
+            </code>
+            </example>
+            <param name="s">Выражение (string)</param>
+            <returns>Операция</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,9 @@
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\BInCalcTest\bin\Debug\net40\BInCalcTest.exe.config
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\BInCalcTest\bin\Debug\net40\BInCalcTest.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\BInCalcTest\bin\Debug\net40\BInCalcTest.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net40\BInCalcTest.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net40\BInCalcTest.AssemblyInfoInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net40\BInCalcTest.AssemblyInfo.cs
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net40\BInCalcTest.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net40\BInCalcTest.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\ООП\Практика\Лабораторные 5 6 (1)\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net40\BInCalcTest.pdb

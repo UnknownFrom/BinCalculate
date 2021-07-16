@@ -1,0 +1,16 @@
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\bin\Debug\net5.0\BInCalcTest.exe
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\bin\Debug\net5.0\BInCalcTest.deps.json
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\bin\Debug\net5.0\BInCalcTest.runtimeconfig.json
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\bin\Debug\net5.0\BInCalcTest.runtimeconfig.dev.json
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\bin\Debug\net5.0\BInCalcTest.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\bin\Debug\net5.0\ref\BInCalcTest.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\bin\Debug\net5.0\BInCalcTest.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net5.0\BInCalcTest.csprojAssemblyReference.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net5.0\BInCalcTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net5.0\BInCalcTest.AssemblyInfoInputs.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net5.0\BInCalcTest.AssemblyInfo.cs
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net5.0\BInCalcTest.csproj.CoreCompileInputs.cache
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net5.0\BInCalcTest.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net5.0\ref\BInCalcTest.dll
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net5.0\BInCalcTest.pdb
+C:\Users\class\Desktop\В.П\Лабораторные 5 6\Лабораторная работа 6\Lab6\BInCalcTest\obj\Debug\net5.0\BInCalcTest.genruntimeconfig.cache
